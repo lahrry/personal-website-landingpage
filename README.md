@@ -2,7 +2,8 @@
 
 Welcome to the repository of my personal website! This website serves as a portfolio and a way to get in touch with me. It includes links to my LinkedIn, projects, contact information, and resume.
 
-[![Watch the video](https://youtu.be/m2_CkCjzUvM)
+[![Watch the video](https://img.youtube.com/vi/m2_CkCjzUvM/maxresdefault.jpg)](https://youtu.be/m2_CkCjzUvM)
+
 
 
 
