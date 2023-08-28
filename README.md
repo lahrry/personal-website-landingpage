@@ -2,7 +2,8 @@
 
 Welcome to the repository of my personal website! This website serves as a portfolio and a way to get in touch with me. It includes links to my LinkedIn, projects, contact information, and resume.
 
-![Alt Text]([url_of_your_gif.gif](https://github.com/lahrry/personal-website-landingpage/assets/62029893/ab35b1c8-f042-4edf-b7e5-7b03077c76c6))
+[![Watch the video](https://youtu.be/m2_CkCjzUvM)
+
 
 
 
